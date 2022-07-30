@@ -1,3 +1,5 @@
+# This script is archived because I will no longer update it or anything, and I found a guy who made it in the QBCore version better than me and he improves it in a piece, so I recommend that you download his script and not mine, because mine wont have new updates so i recommend to download fivem-appearance QBCore version from these guy https://github.com/iLLeniumStudios/fivem-appearance #
+
 # Perek • https://linktr.ee/IamPerek #
 
 # prk-fivem-appearance #
